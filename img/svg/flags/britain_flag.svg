@@ -1,0 +1,20 @@
+<svg width="24.000000" height="20.000000" viewBox="0 0 24 20" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip3_1980">
+			<rect id="country=uk" width="16.000000" height="12.000000" transform="translate(4.000000 4.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="Frame 146" width="24.000000" height="20.000000" fill="#121723" fill-opacity="1.000000"/>
+	<rect id="country=uk" width="16.000000" height="12.000000" transform="translate(4.000000 4.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip3_1980)">
+		<rect id="Frame 148" width="24.000000" height="12.000000" transform="translate(0.000000 4.000000)" fill="#FFFFFF" fill-opacity="0"/>
+		<rect id="Frame 149" width="23.821651" height="11.910823" transform="translate(0.000000 4.000000)" fill="#FFFFFF" fill-opacity="0"/>
+		<path id="Vector" d="M0 4L23.8217 4L23.8217 16L0 16L0 4Z" fill="#0039A6" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M0 4L0 5.34058L21.158 16L23.8217 16L23.8217 14.6594L2.6637 4L0 4ZM23.8217 4L23.8217 5.34058L2.6637 16L0 16L0 14.6594L21.158 4L23.8217 4Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M9.92651 4L9.92651 16L13.8951 16L13.8951 4L9.92651 4ZM0 8.00073L0 11.9993L23.8217 11.9993L23.8217 8.00073L0 8.00073Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M0 8.80005L0 11.2L23.8217 11.2L23.8217 8.80005L0 8.80005ZM10.7197 4L10.7197 16L13.1019 16L13.1019 4L10.7197 4ZM0 16L7.93982 11.9993L9.71704 11.9993L1.77502 16L0 16ZM0 4L7.93982 8.00073L6.16479 8.00073L0 4.89526L0 4ZM14.1069 8.00073L22.0466 4L23.8217 4L15.8818 8.00073L14.1069 8.00073ZM23.8217 16L15.8818 11.9993L17.6569 11.9993L23.8217 15.1047L23.8217 16Z" fill="#D52B1E" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
